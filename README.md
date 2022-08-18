@@ -1,3 +1,3 @@
-# Godot_Project
+# Game_Project
 
-For storing godot files
+For storing game project files
